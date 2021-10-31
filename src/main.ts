@@ -2,7 +2,12 @@ import { Logger } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
+const PRIMEIRA_ALTERACAO = 'Primeira alteração revisada';
+
+Logger.log(PRIMEIRA_ALTERACAO);
+
 const UPDATE_DIRECT = 'Foi alterado diretamente';
+
 Logger.log(UPDATE_DIRECT);
 
 async function bootstrap() {
