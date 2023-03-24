@@ -1,73 +1,37 @@
+# Reinaldo Nascimento
+
+## About Me
+
+Sou um arquiteto de software com mais de 20 anos de experiência no desenvolvimento de sites e sistemas web. Tenho uma paixão especial por tecnologia, programação e arquitetura de software, e estou sempre em busca de aprimoramento constante.
+
+Ao longo da minha carreira, tenho me dedicado a aplicar as melhores práticas de desenvolvimento de software, com ênfase em conceitos como código limpo, arquitetura limpa, domain driven design e SOLID. Acredito que esses conceitos são fundamentais para se criar sistemas escaláveis, sustentáveis e de alta qualidade.
+
+Com a minha vasta experiência, estou apto a programar em diversas linguagens e tenho habilidades em liderança técnica, gestão de projetos e arquitetura de soluções. No meu perfil do Github, você encontrará projetos que demonstram a minha habilidade em lidar com diferentes tecnologias e resolver problemas complexos de forma eficiente.
+
+Espero que possamos nos conectar e colaborar em projetos futuros. Obrigado por visitar o meu perfil!
+
+## <img src="https://cdn3.emoji.gg/emojis/2829_VSCode.png" width="64px" height="64px" alt="VSCode"> Stack & Concepts
+
+- ✔️ Linguagens de programação: Java, Python, JavaScript, C#, Ruby, Kotlin, TypeScript, Dart
+- ✔️ Frameworks: NestJS, NextJS, RemixJS, Spring Boot, Django, Flask, React, Vue.js, Flutter
+- ✔️ Desenvolvimento mobile: Fluter, React Native, Android, iOS
+- ✔️ Bancos de dados: MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Cassandra, DynamoDB
+- ✔️ Mensageria: Apache Kafka, RabbitMQ, AWS SQS, Azure Service Bus,Google Pub/Sub 
+- ✔️ Plataformas em nuvem: AWS, Azure, Google Cloud, Heroku
+- ✔️ Ferramentas DevOps: Docker, Kubernetes, Jenkins, GitHub CI/CD, Terraform
+- ✔️ Conceitos: Arquitetura de microsserviços, Domain-driven design (DDD), Test-driven development (TDD), SOLID, Continuous Integration/Continuous Delivery (CI/CD), Design Patterns, CleanCode, CleanArchitecture, Hexagonal Architecture, Event Source, SAGA, CQRS.
+
+## My Blog
+- [rey.master | Blog](https://reymaster.dev.br)
+
+<br/>
+
+[![Reinaldo Nascimento QD on Github](https://github-readme-stats.vercel.app/api?username=reinaldoqd&show_icons=true&theme=dark)](https://github.com/reinaldoqd)
+[![Reinaldo Nascimento QD composition](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoqd&layout=compact&theme=dark)](https://github.com/reinaldoqd)
+
+## Contact me
+
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+<a href="https://www.linkedin.com/in/reinaldonascimento/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Reinaldo%20Nascimento-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:reinaldo.nascimento@queimadiaria.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-reinaldo.nascimento@queimadiaria.com.br-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
