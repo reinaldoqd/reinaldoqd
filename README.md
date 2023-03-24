@@ -2,13 +2,14 @@
 
 ## About Me
 
-Sou um arquiteto de software com mais de 20 anos de experiência no desenvolvimento de sites e sistemas web. Tenho uma paixão especial por tecnologia, programação e arquitetura de software, e estou sempre em busca de aprimoramento constante.
 
-Ao longo da minha carreira, tenho me dedicado a aplicar as melhores práticas de desenvolvimento de software, com ênfase em conceitos como código limpo, arquitetura limpa, domain driven design e SOLID. Acredito que esses conceitos são fundamentais para se criar sistemas escaláveis, sustentáveis e de alta qualidade.
+I'm a software architect with over 20 years of experience in developing websites and web systems. I have a special passion for technology, programming, and software architecture, and I am always seeking continuous improvement.
 
-Com a minha vasta experiência, estou apto a programar em diversas linguagens e tenho habilidades em liderança técnica, gestão de projetos e arquitetura de soluções. No meu perfil do Github, você encontrará projetos que demonstram a minha habilidade em lidar com diferentes tecnologias e resolver problemas complexos de forma eficiente.
+Throughout my career, I have dedicated myself to applying the best software development practices, with an emphasis on concepts such as clean code, clean architecture, domain-driven design, and SOLID. I believe that these concepts are essential for creating scalable, sustainable, and high-quality systems.
 
-Espero que possamos nos conectar e colaborar em projetos futuros. Obrigado por visitar o meu perfil!
+With my vast experience, I am proficient in programming in several languages and have skills in technical leadership, project management, and solution architecture.
+
+I hope that we can connect and collaborate on future projects. Thank you for visiting my profile!
 
 ## <img src="https://cdn3.emoji.gg/emojis/2829_VSCode.png" width="64px" height="64px" alt="VSCode"> Stack & Concepts
 
